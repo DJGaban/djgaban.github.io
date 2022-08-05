@@ -1,0 +1,32 @@
+
+.navbar-brand{
+    color: white !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+body {
+    background-image: url("https://kfg6bckb.media.zestyio.com/zesty-product-shot-right-side.jpg");
+    /* background-image: url("/zesty-bg.png"); */
+    background-color: #cccccc;
+    height: 1000px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.jumbotron {
+    padding-top: 120px;
+    padding-bottom: 130px;
+    padding-right: 1000px;
+    color: lightblue;
+}
+
+.jumbotron p {
+    color:white;
+}
+
+
+
